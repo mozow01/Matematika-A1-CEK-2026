@@ -1,5 +1,9 @@
 # Matematika-A1-CEK-2026
 
+BMETE90AX00
+
+BMETEMIBsMMAT1-00
+
 ## ZH információk
 
 1. zh: 2026. március 27. péntek 10:00 (6. hét)
