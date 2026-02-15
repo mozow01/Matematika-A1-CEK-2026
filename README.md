@@ -7,6 +7,7 @@
 2. zh: 2024. május 8. péntek 10:00 (10. hét)
 
 pót zh: 2024. május 22. péntek 10:00 (12. hét)
+
 aláíráspótló vizsga: 2024. június 3. szerda 12:00 (pót hét)
 
 ## BME jegyzetek
