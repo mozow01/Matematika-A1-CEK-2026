@@ -25,7 +25,6 @@ aláíráspótló vizsga: 2024. június 3. szerda 12:00 (pót hét)
 ### Az _aláírás_ megszerzésének feltételei
 1. Mindként zh teljesítése, azaz **legalább 18 pont** elérése a 60-ból külön mindkét zh-n. 
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
-3. A nulladik zh vagy a Bevezetés a matematematikába tárgy teljesítése.
 
 Javítási lehetőség: mindkét zh pótolható a pótzh-n, aláíráspótló vizsgán. 
 
