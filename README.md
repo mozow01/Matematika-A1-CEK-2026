@@ -8,11 +8,11 @@ BMETEMIBsMMAT1-00
 
 1. zh: 2026. március 26. csütörtök 10:00 (6. hét)
 
-2. zh: 2024. május 7. csütörtök 10:00 (10. hét)
+2. zh: 2026. május 7. csütörtök 10:00 (10. hét)
 
-pót zh: 2024. május 21. csütörtök 10:00 (12. hét)
+pót zh: 2026. május 21. csütörtök 10:00 (12. hét)
 
-aláíráspótló vizsga: 2024. június 3. szerda 12:00 (pót hét)
+aláíráspótló vizsga: 2026. június 3. szerda 12:00 (pót hét)
 
 ## BME jegyzetek
 
