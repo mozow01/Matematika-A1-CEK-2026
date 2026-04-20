@@ -6,11 +6,11 @@ BMETEMIBsMMAT1-00
 
 ## ZH információk
 
-1. zh: 2026. március 26. csütörtök 10:00 (6. hét)
+1. zh: 2026. március 26. csütörtök 10:00 (6. hét) K174
 
-2. zh: 2026. május 7. csütörtök 10:00 (10. hét)
+2. zh: 2026. május 7. csütörtök 10:00 (10. hét) K174
 
-pót zh: 2026. május 21. csütörtök 10:00 (12. hét)
+pót zh: 2026. május 21. csütörtök 12:00 (12. hét) E...
 
 aláíráspótló vizsga: 2026. június 3. szerda 12:00 (pót hét)
 
